@@ -1,0 +1,17 @@
+{
+  "/api/generate/route": "app/api/generate/route.js",
+  "/api/generate/db/route": "app/api/generate/db/route.js",
+  "/api/auth/[...nextauth]/route": "app/api/auth/[...nextauth]/route.js",
+  "/api/habits/[id]/route": "app/api/habits/[id]/route.js",
+  "/api/habits/route": "app/api/habits/route.js",
+  "/api/habits/weekly/route": "app/api/habits/weekly/route.js",
+  "/api/register/route": "app/api/register/route.js",
+  "/api/streak/route": "app/api/streak/route.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/auth/page": "app/auth/page.js",
+  "/habits/page": "app/habits/page.js",
+  "/habits/weekly-summary/page": "app/habits/weekly-summary/page.js",
+  "/page": "app/page.js",
+  "/api/journal/route": "app/api/journal/route.js"
+}

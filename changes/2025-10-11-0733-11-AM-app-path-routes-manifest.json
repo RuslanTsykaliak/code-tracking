@@ -1,0 +1,17 @@
+{
+  "/api/generate/route": "/api/generate",
+  "/api/generate/db/route": "/api/generate/db",
+  "/api/auth/[...nextauth]/route": "/api/auth/[...nextauth]",
+  "/api/habits/[id]/route": "/api/habits/[id]",
+  "/api/habits/route": "/api/habits",
+  "/api/habits/weekly/route": "/api/habits/weekly",
+  "/api/register/route": "/api/register",
+  "/api/streak/route": "/api/streak",
+  "/favicon.ico/route": "/favicon.ico",
+  "/_not-found/page": "/_not-found",
+  "/auth/page": "/auth",
+  "/habits/page": "/habits",
+  "/habits/weekly-summary/page": "/habits/weekly-summary",
+  "/page": "/",
+  "/api/journal/route": "/api/journal"
+}

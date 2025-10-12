@@ -1,0 +1,51 @@
+{
+  "pages": {
+    "/api/generate/route": [
+      "static/chunks/webpack-f9ca48068a4363a9.js",
+      "static/chunks/4bd1b696-cf72ae8a39fa05aa.js",
+      "static/chunks/964-7a34cadcb7695cec.js",
+      "static/chunks/main-app-1ef1e32d6fb8bc76.js",
+      "static/chunks/app/api/generate/route-cda5be0d8b361077.js"
+    ],
+    "/api/generate/db/route": [
+      "static/chunks/webpack-f9ca48068a4363a9.js",
+      "static/chunks/4bd1b696-cf72ae8a39fa05aa.js",
+      "static/chunks/964-7a34cadcb7695cec.js",
+      "static/chunks/main-app-1ef1e32d6fb8bc76.js",
+      "static/chunks/app/api/generate/db/route-cda5be0d8b361077.js"
+    ],
+    "/api/auth/[...nextauth]/route": [
+      "static/chunks/webpack-f9ca48068a4363a9.js",
+      "static/chunks/4bd1b696-cf72ae8a39fa05aa.js",
+      "static/chunks/964-7a34cadcb7695cec.js",
+      "static/chunks/main-app-1ef1e32d6fb8bc76.js",
+      "static/chunks/app/api/auth/[...nextauth]/route-cda5be0d8b361077.js"
+    ],
+    "/api/habits/[id]/route": [
+      "static/chunks/webpack-f9ca48068a4363a9.js",
+      "static/chunks/4bd1b696-cf72ae8a39fa05aa.js",
+      "static/chunks/964-7a34cadcb7695cec.js",
+      "static/chunks/main-app-1ef1e32d6fb8bc76.js",
+      "static/chunks/app/api/habits/[id]/route-cda5be0d8b361077.js"
+    ],
+    "/api/habits/route": [
+      "static/chunks/webpack-f9ca48068a4363a9.js",
+      "static/chunks/4bd1b696-cf72ae8a39fa05aa.js",
+      "static/chunks/964-7a34cadcb7695cec.js",
+      "static/chunks/main-app-1ef1e32d6fb8bc76.js",
+      "static/chunks/app/api/habits/route-cda5be0d8b361077.js"
+    ],
+    "/api/habits/weekly/route": [
+      "static/chunks/webpack-f9ca48068a4363a9.js",
+      "static/chunks/4bd1b696-cf72ae8a39fa05aa.js",
+      "static/chunks/964-7a34cadcb7695cec.js",
+      "static/chunks/main-app-1ef1e32d6fb8bc76.js",
+      "static/chunks/app/api/habits/weekly/route-cda5be0d8b361077.js"
+    ],
+    "/api/register/route": [
+      "static/chunks/webpack-f9ca48068a4363a9.js",
+      "static/chunks/4bd1b696-cf72ae8a39fa05aa.js",
+      "static/chunks/964-7a34cadcb7695cec.js",
+      "static/chunks/main-app-1ef1e32d6fb8bc76.js",
+      "static/chunks/app/api/register/route-cda5be0d8b361077.js"
+... (truncated for brevity)
